@@ -1,5 +1,5 @@
-module github.com/rover10/ppair
+module github.com/rover10/papair
 
 go 1.14
 
-replace github.com/rover10/ppair => ../
+replace github.com/rover10/papair => ../
